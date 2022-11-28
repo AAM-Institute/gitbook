@@ -1,93 +1,87 @@
-# Welcome to Development 101
+---
+description: Welcome to the mindset
+---
 
-**Welcome to AAM institute's Dev101!**
+# 0.0 Programming Mindset
 
-My name is Lacy Morrow, and I'll be your guide through the wonderful world of coding!
+### 0.1 Introduction to Web Development
 
-<figure><img src=".gitbook/assets/DSC00069(1) (1).JPG" alt=""><figcaption><p><strong>That’s me^^ :)</strong></p></figcaption></figure>
+What do web developers do? In short, they build and maintain websites.
 
-At AAM institute, we believe there’s a better, faster way to become a top notch coder that doesn’t exist right now.
+Web developers often work for clients who are trying to get their product or service onto the web. The work is typically very project focused and involves collaborating with a team that helps to coordinate the client’s needs into the end product. The client could be a tech company, an organization, or a government. The work could involve front-end, back-end, or full-stack web development.
 
-**It’s a fact - the most effective way to become a competent, hirable programmer is by building real world applications and having hands-on support from experts.**
+Web development could be a good profession for you if you like solving logical problems, building useful things, and experimenting with new technologies. Web developers are in high demand, generally have a good work/life balance, and command comfortable salaries. Google your specific location to get a better sense of your local web development job opportunities.
 
-****
+For more details, Wikipedia describes the breadth of the web development profession in their [entry on web design](https://en.wikipedia.org/wiki/Web\_design).
 
-### **AAM stands for (A)gile (A)cademic (M)ethod.**
+#### Types of Web Developers
 
-****
+Earlier, we mentioned that web development work could be in the front end, the back end, or the full stack. What exactly do these terms mean?
 
-It’s a process we’ve created that teaches coding through the **simulation** of a **real-world product team.** Developers with years of experience will tell you, no one really knows what it’s like to be an engineer until you get your first job.
+The **front end** is the stuff you see on the website in your browser, including the presentation of content and user interface elements like the navigation bar. Front-end developers use HTML, CSS, JavaScript, and their relevant frameworks to ensure that content is presented effectively and that users have an excellent experience.
 
+The **back end** refers to the guts of the application, which live on the server. The back end stores and serves program data to ensure that the front end has what it needs. This process can become very complicated when a website has millions of users. Back-end developers use programming languages like Java, Python, and Ruby to work with data.
 
+**Full-stack developers** are comfortable working with both the front and back ends. At The Odin Project, we focus on teaching you full-stack development, covering all aspects of web development.
 
-**We want to get you ahead.** When you graduate from our program, **you’ll have real product team experience** that other graduates from other programs won’t have. **That’s going to help you land a job sooner **_**and**_** perform better than all the other new hires, meaning more salary and job growth **_**faster**_**.**\
+For more detail, Udacity has a great blog post on this topic: [3 Web Dev Careers Decoded: Front-End vs Back-End vs Full Stack](http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html)
 
+#### Types of Careers
 
-So many college classes and bootcamps are based around cookie-cutter projects. You and your fellow students do the exact same coding assignments and when you graduate, you all compete for the same jobs with the exact same portfolio.
+Now that you know about the different types of web developers, let’s cover what we mentioned earlier about the different types of clients and employers you may work with.
 
+Large tech companies, such as Google, Meta, and Amazon, have very stringent hiring requirements. If you successfully meet these expectations, they offer excellent pay, benefits, and opportunities.
 
+Startups are a bit like the wild west. For a junior developer, it can feel like a trial by fire because of the pace of development. Startups often offer slightly lower salaries and require longer hours, but they may also offer equity in the company and highly unique environments.
 
-**We want to make you stand out from everyone else.** You’ll graduate with a one-of-a-kind portfolio, filled to the brim with a **variety** of different applications.
+As a freelancer, you could command a strong hourly wage and the freedom to schedule and design your own products. However, you would be responsible for getting your own work (which means less coding time), managing billing from clients (which can be difficult), and being solely responsible. Strong people skills are necessary for this path.
 
+As a consultant for a web consultancy, you would give up some of your freelancing wage potential but be able to focus more on the code and less on the hustle. This option also provides a good work/life balance and pay.
 
+Finally, large, older companies still need web developers. These companies offer a good work/life balance, pay, and benefits but often move slower than a company that is highly focused on tech.
 
-### So how do we get started?
+#### Tools of the Trade
 
+These are some of the basic tools you will use regularly. You may not know what they are now, but you most certainly will going forward.
 
+* **Computer**
+* [**Google**](https://www.google.com/)
+* **Text Editor**
+* **Command Line Interface (CLI)**
+* [**Stack Overflow**](http://stackoverflow.com/)
+* [**Git**](https://git-scm.com/)
+* [**GitHub**](https://github.com/)
 
-Enter Development 101, our precursor to our full AAM program. This crash course will give you the foundational knowledge needed for you to be functional during AAM.\
+#### Motivation
 
+Learning to code is not easy. The strongest assets you can have as a student are a desire to build, a problem-solving mind, and persistence in the face of setbacks.
 
-This course **is not meant to make you a job-ready coder.** It’s just the basics to get you up to speed. We’ve developed it to be as short as possible, because we know the real learning and development happens during AAM.\
+The web development industry has a long history of successful developers with varying backgrounds, so people tend to care more about what you’ve actually **built** than how you got there.
 
+### 0.2 Mindset
 
-### But what do you mean by “Pilot”?
+<mark style="color:orange;">**Assignment:**</mark>** **<mark style="color:red;">****</mark> Please take the time to go through [this awesome motivation/mindset article](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset) by The Odin Project. It really gives you a feeling of what it takes to be a successful software developer, and will set the stage for what the journey will be like.
 
+### 0.3 Join the Discord!
 
+AAM is a community of developers working together to improve our skills. We use Discord, a community chat/messaging platform, to ask questions, discuss problems, and get immediate help from professors.
 
-AAM institute is **not currently live**. We’re doing a bunch of tests right now to create our final approach and guess what? You’re one of our lucky guinea pigs.
+<mark style="color:orange;">**Assignment:**</mark> <mark style="color:red;"></mark> Join our Discord community!
 
-
-
-We've put hours and hours into research to find the online sources and tools that we believe are the best, and we’ve combined them into this introductory course.
-
-
-
-We believe the process we’ve put together with these materials is the fastest and most fun way to get up to speed with coding basics.
-
-
-
-**This course is free for you because it’s a test and we're only opening it to a very small amount of people.** Can you help us out by letting me know how your experience goes, what questions you have and where you struggled most?&#x20;
-
-
-
-**I’ll be with you every step of the way to help.**\
-
-
-### What happens when I complete Dev101?
-
-
-
-Once you complete the free pilot for Dev101, **you’ll be eligible to join our AAM Pilot Program for free as well!**
-
-
-
-Spots are **EXTREMELY limited** in the AAM Pilot Program and will only be available for **a very short time**. We will be accepting only those that finish Dev101 first and have the best test results.\
-
-
-So if you want to join our AAM Pilot Program for **free** (a \~$2,500 value)**,** stay discipline and dedicate time every day to work on Dev101 (we suggest 2 - 4 hours a day), make sure you learn the material and do well on the projects/tests!\
-
-
-### Warning: Do not skip anything!
+1. [**Click here to join the AAM Discord Server.**](https://discord.gg/5fY5efPd)
+2. **Go to the channel #introductions and tell us about yourself!** You can include anything you want but here are some ideas to get you started:
+   * Why did you decide to learn coding?
+   * Where are you from?
+   * What are some fun facts and/or hobbies of yours?
 
 
 
-We have built this course very carefully, so **please do not skip anything!** I repeat, **do not skip anything!** We spent so much time cutting this down to the most important information only, so every step is essential.
+### Module 0.0 Survey
 
+Remember, this course is free because we're testing our ideas. **We want to know what you think!!**
 
+<mark style="color:orange;">**Please complete this**</mark>** ** [**short survey here**](https://docs.google.com/forms/d/e/1FAIpQLScT8vYmaKoXM8Gd96Yfvg-GAC2eEqvgG6jZMb5qzl8kLfzQyw/viewform) <mark style="color:orange;">**for this module.**</mark>
 
-**If you already have coding knowledge and/or experience, please still go through all of it.** If nothing else, it will be a fun refresher :)
+<mark style="color:orange;">****</mark>
 
-
-
-Good luck and thanks for joining the AAM community! We can’t wait to work with you.
+<mark style="color:orange;">****</mark>
