@@ -10,5 +10,5 @@
   * [6.0 Further Development & Tooling](readme/5.0-javascript-continued.md)
   * [7.0 Javascript Frameworks](readme/5.0-javascript-continued-1.md)
   * [Conclusion](readme/conclusion.md)
-* [Developer Resources](resources.md)
-* [Glossary](glossary.md)
+* [Developer Resources](resources/README.md)
+  * [Glossary](resources/glossary.md)
